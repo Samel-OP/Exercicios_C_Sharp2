@@ -1,0 +1,25 @@
+programa {
+     funcao inicio()
+      {
+        caractere nome, senha
+        logico valido
+
+        faca
+           escreva("Escreva seu nome de usuário: ")
+           leia(nome)
+
+           escreva("Escreva sua senha: ")
+           leia(senha)          
+          
+           se (nome <> senha)entao
+
+             escreva("Cadastro feito com sucesso! \n")
+             valido = VERDADEIRO
+
+           senao
+           
+             escreva("Erro, a senha não pode ser igual ao nome de usuário (informe novamente o nome de usuário e a senha! \n")
+             
+           fimse enquanto (valido = FALSO)
+        }
+}

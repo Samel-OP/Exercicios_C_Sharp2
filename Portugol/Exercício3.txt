@@ -1,0 +1,103 @@
+programa {
+     funcao inicio()
+      {
+        caractere nome, estadoCivil
+        real salario
+        int idade
+        logico validoZero, validoOne, validoTwo, validoThree
+
+        enquanto (validoZero == false) faca
+
+           enquanto (validoOne == false) faca
+
+              escreva("Escreva seu nome: ")
+              leia(nome) 
+          
+           se (nome <> "")entao
+
+             validoOne = VERDADEIRO
+
+           senao
+           
+             escreva("Nome inválido! \n")
+
+           fimse
+             
+           fimenquanto 
+
+          enquanto (validoTwo == false) faca
+
+              escreva("Escreva sua idade: ")
+              leia(idade) 
+          
+           se (idade >= 0 e idade <= 150)entao
+
+             validoTwo = VERDADEIRO
+
+           senao
+           
+             escreva("Idade inválida! \n")
+             
+           fimse
+
+           fimenquanto 
+
+           enquanto (validoThree == false) faca
+
+              escreva("Escreva seu salário: ")
+              leia(salario) 
+          
+           se (salario > 0)entao
+
+             validoThree = VERDADEIRO
+
+           senao
+           
+             escreva("Salário inválido! \n")
+
+           fimse
+ 
+           fimenquanto
+
+           enquanto (validoZero == false) faca
+
+              escreva("Estado Civil (Sendo 's'/'c'/'v'/'d' - Solteiro(a), Casado(a), Viúvo(a) e Divorciado(a), respectivamente:")faca
+              leia(estadoCivil) 
+          
+           se (estadoCivil = "s")entao
+             
+             estadoCivil = "Solteiro(a)"
+             validoZero = VERDADEIRO
+
+           se (estadoCivil = "c")entao
+             
+             estadoCivil = "Casado(a)"
+             validoZero = VERDADEIRO
+            
+           se (estadoCivil = "v")entao
+             
+             estadoCivil = "Viúvo(a)"
+             validoZero = VERDADEIRO
+
+           se (estadoCivil = "d")entao
+             
+             estadoCivil = "Divorciado(a)"
+             validoZero = VERDADEIRO
+
+           senao
+           
+             escreva("Estado civil inválido! \n")
+             validoZero = FALSO
+
+           fimse
+
+           se (validoZero = VERDADEIRO)entao
+              escreva("Suas informações: \n")
+              escreva("Seu nome é: + nome \n")
+              escreva("Sua idade é: + idade \n")
+              escreva("Seu salário é: + salario \n")
+              escreva("Seu estado civil é: + estadoCivil \n")
+
+           fimenquanto
+        }
+}

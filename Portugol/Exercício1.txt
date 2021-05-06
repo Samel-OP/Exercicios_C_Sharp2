@@ -1,0 +1,27 @@
+programa {
+     funcao inicio()
+      {
+        inteiro resposta
+        logico respostaCorreta
+
+        enquanto (respostaCorreta = FALSO) faca
+
+        escreva("Escreva uma nota (entre 0 a 10): ")
+        leia(resposta)          
+          
+        se (resposta >= 0 e resposta <= 10)entao
+      
+           escreva("Nota enviada com sucesso! \n")
+           respostaCorreta = VERDADEIRO
+        
+        senao (resposta >= 0 e resposta <= 10) 
+        
+           escreva("Nota inválida! \n")
+           respostaCorreta = FALSO
+
+        fimse
+
+        fimenquanto
+
+     } 
+}
