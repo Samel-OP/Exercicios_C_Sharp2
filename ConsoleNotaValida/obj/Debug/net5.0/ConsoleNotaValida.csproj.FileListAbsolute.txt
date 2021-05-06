@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ConsoleNotaValida.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ConsoleNotaValida.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ConsoleNotaValida.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ConsoleNotaValida.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ConsoleNotaValida.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ref\ConsoleNotaValida.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\bin\Debug\net5.0\ConsoleNotaValida.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ref\ConsoleNotaValida.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_2\ConsoleNotaValida\obj\Debug\net5.0\ConsoleNotaValida.genruntimeconfig.cache
